@@ -23,7 +23,7 @@ import static org.junit.Assert.assertEquals;
 
 @RunWith(Enclosed.class)
 public class TestCase {
-
+//Проверка коммита
     // Этот класс будет использоваться для запуска тестов на проверку вопросов FAQ
     @RunWith(Parameterized.class)
     public static class QuestionsAboutGeneralTest {
